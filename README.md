@@ -2,9 +2,9 @@
 # Building Contract
 #### *Author*: Carlos Berlanga
 
-[Video demo](https://youtu.be/dDRwLFr8ofY)
-[Design Pattern Decisions](https://github.com/berlanga87/eth-building/blob/master/design_pattern_decisions.md)
-[Avoiding Common Attacks](https://github.com/berlanga87/eth-building/blob/master/avoiding_common_attacks.md)
+[Video demo](https://youtu.be/dDRwLFr8ofY)  
+[Design Pattern Decisions](https://github.com/berlanga87/eth-building/blob/master/design_pattern_decisions.md)  
+[Avoiding Common Attacks](https://github.com/berlanga87/eth-building/blob/master/avoiding_common_attacks.md)  
 
 ## Summary
 
