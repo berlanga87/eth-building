@@ -1,5 +1,5 @@
 
-# Building Contract
+# Building Manager
 #### *Author*: Carlos Berlanga
 
 [Video demo](https://youtu.be/dDRwLFr8ofY)  
