@@ -14,11 +14,27 @@
   <body>
     <div class="container">
       <div class="row">
-        <div class="col-xs-12 col-sm-8 col-sm-push-2">
+          
+        <div class="col-xs-10 col-sm-8 col-sm-push-2">
           <h1 class="text-center">Building Contract Manager</h1>
-          <hr/>
-          <br/>
+          <!-- <hr/>
+          <br/> -->
         </div>
+      </div>
+      <div class="row">
+          <div class="col-lg-6 col-sm-6 col-sm-push-2">
+            <h3> Current account: <h4><span class="current-account"></span></h4></h3>
+              <hr/>
+              <br/>
+          </div>
+          <div class="col-lg-6 col-sm-2 col-sm-push-2">
+            <button type="button" class="btn btn-warning">Lock</button>
+            <button type="button" class="btn btn-success">Unlock</button>
+            <button type="button" class="btn btn-kill btn-danger">Kill switch</button>
+            <button type="button" class="btn btn-refund btn-info">Request refunds</button>  
+            <br/>
+          </div>
+        
       </div>
 
       <div id="unitsRow" class="row">
@@ -36,9 +52,9 @@
             <br/><br/>
             <strong>Price</strong>: <span class="unit-price"></span><br/>
             <strong>Owner</strong>: <span class="unit-owner"></span><br/>
-            <button class="btn btn-default btn-buy" type="button" data-id="0">Buy</button>
-            <button class="btn btn-default btn-list" type="button" data-id="0">List</button>
-            <button class="btn btn-default btn-unlist" type="button" data-id="0">Unlist</button>
+            <button class="btn btn-primary btn-buy" type="button" data-id="0">Buy</button>
+            <button class="btn btn-info btn-list" type="button" data-id="0">List</button>
+            <button class="btn btn-warning btn-unlist" type="button" data-id="0">Unlist</button>
           </div>
         </div>
       </div>
